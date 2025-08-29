@@ -9,7 +9,6 @@ Este proyecto es una aplicación web sencilla que permite escribir una serie de 
 - Agregar amigos mediante un campo de texto.
 - Visualizar en pantalla la lista de amigos registrados.
 - Sortear un amigo de forma aleatoria.
-- Validar que la lista no esté vacía antes de sortear.
 - Botón de **reinicio** para limpiar la lista y volver a empezar.
 ---
 
